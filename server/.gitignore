@@ -1,0 +1,88 @@
+# Ignore node_modules folder
+/node_modules
+
+# Ignore log files
+/logs
+*.log
+
+# Ignore OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore user files
+.env
+.env.local
+.env.development.local
+.env.production.local
+.env.test.local
+
+# Ignore runtime data
+pids
+*.pid
+*.seed
+
+# Ignore report files
+coverage
+jest
+junit
+tests_report.xml
+
+# Ignore build files
+build
+dist
+lib-cov
+
+# Ignore npm-debug.log* files from `npm --verbose`
+npm-debug.log*
+
+# Ignore runtime data files
+npm-log*
+
+# Ignore editor settings and swap files
+*.swp
+*.swo
+*.cache
+*.temporary
+*.temp
+*.tmp
+*~
+#*#
+#*.swp
+#.cache
+#.tmp
+#.tmp.*
+#.viminfo
+.*/tags
+.*/cscope*
+.svn/entries
+*.un~
+Session.vim
+AutoSave.vim
+TagbarAutoSave.sh
+gtags_db.tag
+gtags_history.tag
+gtags_tags
+.mmt
+.mox
+.mox-tags
+.mox-session
+.mox-tags
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore user files
+.env
+.env.local
+.env.development.local
+.env.production.local
+.env.test.local
